@@ -1,120 +1,114 @@
 {
-  "is_paid": false,
   "metadata": {
-    "title": "Modern Ajans Pro",
-    "description": "Profesyonel dijital çözümler."
+    "title": "İzmir Test Burger | Lezzetin Yeni Adresi",
+    "description": "İzmir Test Burger, taptaze malzemelerle hazırlanan eşsiz hamburger lezzetlerini İzmir'in kalbinde sunuyor. Günlük üretim, taze et ve harika lezzet garantisiyle sizi bekliyoruz!"
   },
   "theme": {
     "colors": {
-      "primary": "#2563eb",
-      "secondary": "#1e40af",
-      "background": "#0f172a",
-      "text": "#f8fafc"
+      "primary": "#FF9800",
+      "secondary": "#FF5722",
+      "background": "#FFF3E0",
+      "text": "#212121"
     },
     "fonts": {
       "heading": "Montserrat",
-      "body": "Inter"
+      "body": "Roboto"
     },
     "style": "modern"
   },
   "images": {
-    "hero_keyword": "modern office architecture glass",
-    "about_keyword": "team meeting creative",
+    "hero_keyword": "modern burger restaurant interior, vibrant colors, happy customers",
+    "about_keyword": "burger preparation process, fresh ingredients, close-up",
     "feature_keywords": [
-      "code",
-      "design",
-      "rocket"
+      "juicy burger stack photography",
+      "crispy golden fries close-up",
+      "refreshing soda drink with ice"
     ]
   },
   "content": {
     "hero": {
-      "headline": "Geleceği Şekillendiriyoruz",
-      "subheadline": "İşletmeniz için en modern teknolojileri kullanarak dijital dünyada fark yaratın.",
-      "ctaButtonText": "Hemen Başlayın"
+      "headline": "İzmir'in En Lezzetli Hamburgerleri",
+      "subheadline": "Taptaze malzemelerle hazırlanan, eşsiz lezzet deneyimi!",
+      "ctaButtonText": "Menüyü Keşfet"
     },
     "about": {
-      "title": "Biz Kimiz?",
-      "description": "2010 yılından beri sektörde öncü çözümler üretiyoruz. Müşteri memnuniyeti odaklı yaklaşımımızla markanızı zirveye taşıyoruz.",
+      "title": "Hakkımızda",
+      "description": "İzmir Test Burger olarak, en taze ve kaliteli malzemelerle hazırladığımız hamburgerlerimizle İzmir'e yeni bir lezzet anlayışı getiriyoruz. Günlük üretimimiz, taze etimiz ve eşsiz tariflerimizle damaklarınızı şenlendirmeye hazırız. Amacımız, her ısırıkta size unutulmaz bir deneyim yaşatmak.",
       "stats": [
         {
-          "label": "Tamamlanan Proje",
-          "value": "500+"
+          "label": "Günlük Müşteri",
+          "value": "250+"
         },
         {
-          "label": "Mutlu Müşteri",
-          "value": "150+"
-        },
-        {
-          "label": "Yıllık Deneyim",
-          "value": "12"
+          "label": "Hamburger Çeşidi",
+          "value": "10+"
         }
       ]
     },
     "services": [
       {
-        "title": "Web Tasarım",
-        "description": "Mobil uyumlu, hızlı ve modern web siteleri.",
-        "icon": "💻"
+        "title": "Burger",
+        "description": "En taze et ve özel soslarımızla hazırlanan, eşsiz burger lezzetlerimiz.",
+        "icon": "🍔"
       },
       {
-        "title": "SEO Optimizasyonu",
-        "description": "Google'da ilk sıralarda yerinizi alın.",
-        "icon": "🚀"
+        "title": "Patates",
+        "description": "Çıtır çıtır, taptaze patateslerimiz, burger keyfinizi tamamlar.",
+        "icon": "🍟"
       },
       {
-        "title": "Sosyal Medya",
-        "description": "Markanızın sesini dünyaya duyurun.",
-        "icon": "📱"
-      }
-    ],
-    "testimonials": [
-      {
-        "name": "Ahmet Yılmaz",
-        "role": "CEO, Tech Corp",
-        "comment": "Harika bir ekip, işlerini zamanında ve mükemmel yapıyorlar."
-      },
-      {
-        "name": "Ayşe Demir",
-        "role": "Pazarlama Müdürü",
-        "comment": "Satışlarımız %200 arttı. Kesinlikle tavsiye ediyorum."
+        "title": "İçecek",
+        "description": "Serinletici içeceklerimizle burgerinizin yanında mükemmel bir uyum yakalayın.",
+        "icon": "🥤"
       }
     ],
     "process": [
       {
         "step": "01",
-        "title": "Keşif ve Analiz",
-        "description": "İhtiyaçlarınızı dinliyor, hedeflerinizi belirliyoruz."
+        "title": "Sipariş Verin",
+        "description": "Menümüzden dilediğiniz burgeri, patatesi ve içeceği seçin."
       },
       {
         "step": "02",
-        "title": "Tasarım ve Planlama",
-        "description": "Modern ve kullanıcı dostu tasarımlar oluşturuyoruz."
+        "title": "Hazırlanmasını İzleyin",
+        "description": "Siparişiniz özenle ve taze malzemelerle hazırlanırken bekleyin."
       },
       {
         "step": "03",
-        "title": "Geliştirme ve Teslimat",
-        "description": "Kodlama ve testleri tamamlayıp projenizi teslim ediyoruz."
+        "title": "Lezzetin Tadını Çıkarın",
+        "description": "Hazırlanan lezzetleri afiyetle yiyin ve İzmir Test Burger deneyiminin keyfini sürün."
       }
     ],
     "faq": [
       {
-        "question": "Proje teslim süresi ne kadar?",
-        "answer": "Projenin kapsamına göre 2-6 hafta arasında değişmektedir."
+        "question": "Hamburgerlerinizde hangi etleri kullanıyorsunuz?",
+        "answer": "Hamburgerlerimizde yalnızca günlük olarak temin edilen, en kaliteli ve taze dana etini kullanıyoruz."
       },
       {
-        "question": "Ödeme koşulları nelerdir?",
-        "answer": "%50 peşin, %50 teslimat sonrası ödeme planı sunuyoruz."
+        "question": "Gluten hassasiyeti olanlar için seçenekleriniz var mı?",
+        "answer": "Evet, gluten hassasiyeti olan müşterilerimiz için glutensiz ekmek seçeneğimiz bulunmaktadır. Lütfen sipariş verirken belirtiniz."
       },
       {
-        "question": "Destek hizmeti veriyor musunuz?",
-        "answer": "Evet, teslim sonrası 6 ay ücretsiz teknik destek sağlıyoruz."
+        "question": "Teslimat yapıyor musunuz?",
+        "answer": "Şu anda sadece belirli bölgelere teslimat hizmeti sunmaktayız. Teslimat bölgelerimizi öğrenmek için lütfen bizimle iletişime geçin."
+      },
+      {
+        "question": "Çalışma saatleriniz nelerdir?",
+        "answer": "Haftanın her günü 11:00 - 22:00 saatleri arasında hizmet vermekteyiz."
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Ayşe K.",
+        "role": "Öğrenci",
+        "comment": "İzmir'deki en iyi burgerci! Hem lezzetli hem de fiyatları çok uygun."
       }
     ],
     "contact": {
-      "address": "Levent, Büyükdere Cd. No:1, İstanbul",
-      "phone": "+90 555 123 45 67",
-      "email": "info@modernajans.com",
-      "map_query": "Istanbul"
+      "address": "Alsancak, İzmir",
+      "phone": "0555 123 45 67",
+      "email": "senin-mailin@gmail.com",
+      "map_query": "Alsancak İzmir"
     }
   }
 }
